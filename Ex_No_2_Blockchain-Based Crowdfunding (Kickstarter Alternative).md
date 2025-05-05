@@ -69,6 +69,7 @@ contract Crowdfunding {
 ![Screenshot 2025-05-05 103202](https://github.com/user-attachments/assets/5a1bd62e-aa9d-490b-932e-908d54db65e1)
 
 
+
 # High-Level Overview:
 Teaches decentralized fundraising.
 
