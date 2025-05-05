@@ -17,6 +17,8 @@ If the goal is not met, contributors can withdraw their funds.
 
 ## Program:
 ```
+NAME : PRAGAHARSHITHA NC
+REF NO : 212222110033
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -61,13 +63,10 @@ contract Crowdfunding {
 }
 ```
 # Expected Output:
-Users can contribute ETH to the campaign.
 
+![Screenshot 2025-05-05 103127](https://github.com/user-attachments/assets/5c1e631e-c10b-42b1-b7c5-2815b661030d)
 
-If the goal is met, the creator can withdraw funds.
-
-
-If the goal is not met, contributors can claim a refund.
+![Screenshot 2025-05-05 103202](https://github.com/user-attachments/assets/5a1bd62e-aa9d-490b-932e-908d54db65e1)
 
 
 # High-Level Overview:
