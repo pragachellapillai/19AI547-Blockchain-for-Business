@@ -57,6 +57,15 @@ Ownership is transferred at every checkpoint.
 
 Buyers can check the authenticity before purchasing.
 
+![Screenshot 2025-05-05 204022](https://github.com/user-attachments/assets/cc31ee95-cca6-4a85-9482-71651c636801)
+
+## For Register:
+
+![image](https://github.com/user-attachments/assets/088f957e-d319-4fe9-81a1-2892f4be0725)
+
+## For Verification:
+
+![image](https://github.com/user-attachments/assets/d594937b-24e1-43eb-af55-98977c73c9f3)
 
 # High-Level Overview:
 Helps prevent counterfeit luxury goods.
@@ -65,4 +74,6 @@ Helps prevent counterfeit luxury goods.
 Teaches real-world supply chain use cases.
 
 # RESULT : 
+
+Thus, a smart contract that tracks the supply chain of luxury goods and ensuring authenticity is successfully executed.
 
