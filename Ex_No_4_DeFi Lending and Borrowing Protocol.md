@@ -27,6 +27,8 @@ If collateral < liquidation threshold, liquidators can repay the borrower's debt
 
 Program:
 ```
+NAME : PRAGAHARSHITHA NC
+REF NO : 21222110033
 //SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -87,6 +89,16 @@ Users can borrow ETH by providing collateral.
 
 If collateral < 150% of borrowed amount, liquidators can seize the collateral.
 
+![image](https://github.com/user-attachments/assets/f0979e86-8161-4580-9a2b-0129800bf24c)
+
+![image](https://github.com/user-attachments/assets/d7c5ce1f-7dcb-40af-9272-a01b21dc646e)
+
+![image](https://github.com/user-attachments/assets/4dc311d0-4e98-45e5-b8e6-1bd23fc3fed6)
+
+![image](https://github.com/user-attachments/assets/00b17eab-659c-449e-ab87-307418f633b6)
+
+
+
 
 
 # High-Level Overview:
@@ -100,3 +112,4 @@ Directly related to DeFi protocols like Aave and Compound.
 
 # RESULT : 
 
+Thus, to build a decentralized lending protocol where users can deposit assets to earn interest and borrow assets by providing collateral. This experiment introduces concepts like overcollateralization, liquidity pools, and interest accrual in DeFi is executed successfully.
