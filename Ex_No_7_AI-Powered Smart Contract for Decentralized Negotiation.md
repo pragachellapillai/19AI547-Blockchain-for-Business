@@ -36,6 +36,8 @@ Every completed transaction updates the price learning algorithm to refine futur
 
 # Program:
 ```
+NAME : PRAGAHARSHITHA NC
+REF NO : 212222110033
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -101,6 +103,11 @@ If the buyer’s offer is fair, the deal is executed.
 If the offer is too low, the contract suggests a counteroffer.
 
 
+![image](https://github.com/user-attachments/assets/4bf3d68b-ac11-444a-a339-66b8f966e79a)
+
+![image](https://github.com/user-attachments/assets/abf68963-ee39-4419-8991-969ebc6aa8dd)
+
+![image](https://github.com/user-attachments/assets/9e037c13-fbf6-4f11-adb3-4cb29eadde58)
 
 # High-Level Overview:
 First-of-its-kind AI-powered pricing contract.
@@ -116,4 +123,5 @@ Inspired by AI-enhanced commerce and eBay-like decentralized auctions.
 
 # RESULT:
 
+Thus, to create a smart contract that integrates AI logic for automated negotiation in decentralized commerce. The contract adjusts price and conditions dynamically based on real-time market trends using an on-chain AI model is executed successfully.
 
