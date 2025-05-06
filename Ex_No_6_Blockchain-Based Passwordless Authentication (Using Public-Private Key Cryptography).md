@@ -17,6 +17,8 @@ The smart contract verifies the signature using the user’s public key.
 
 # Program:
 ```
+NAME : PRAGAHARSHITHA NC
+REF NO : 212222110033
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -102,7 +104,13 @@ Users sign a challenge with their private key for authentication.
 
 The smart contract verifies signatures to confirm identity.
 
+![image](https://github.com/user-attachments/assets/3fbff2c4-9e86-4617-a6a0-3428970b5f31)
 
+![image](https://github.com/user-attachments/assets/99dffe8f-8535-4be5-930c-dfb1a7aeab4e)
+
+![image](https://github.com/user-attachments/assets/5508673d-f0e5-4e2f-a1e2-0ea2fd50abc3)
+
+![image](https://github.com/user-attachments/assets/d0f085ed-4c08-498d-bc17-cbe87a5f91f8)
 
 # High-Level Overview:
 Eliminates password hacks & phishing attacks.
@@ -114,3 +122,6 @@ Uses Ethereum's built-in cryptographic functions.
 Inspired by Web3 login solutions like MetaMask authentication.
 
 # RESULT: 
+
+To implement a secure passwordless authentication system using public-private key cryptography on Ethereum. This prevents phishing and password leaks is executed successfully
+
