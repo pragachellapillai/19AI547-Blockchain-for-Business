@@ -22,6 +22,8 @@ Once voting ends, the contract reveals the final tally without linking votes to 
 
 # Program:
 ```
+NAME : PRAGAHARSHTHA NC
+REF NO : 212222110033
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
@@ -65,7 +67,11 @@ When revealed, the contract verifies correctness but keeps votes anonymous.
 
 Final result is publicly verifiable without exposing individual votes.
 
+![image](https://github.com/user-attachments/assets/d92da84c-1ec2-4dd9-a9ca-58a1d92bddc6)
 
+![image](https://github.com/user-attachments/assets/d589fe9d-9b25-45fe-9cbe-ad4381b68daf)
+
+![WhatsApp Image 2025-05-09 at 21 42 04_6a9998cb](https://github.com/user-attachments/assets/4b32feb7-5b93-4e32-9c74-19a282dd64e7)
 
 # High-Level Overview:
 Uses ZKPs to ensure anonymous and fair elections.
